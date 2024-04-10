@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Login</string>
+
+    <string name="register">REGISTER</string>
+    <string name="login_username_hint">Username</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="login_first_name_hint">First name</string>
+    <string name="login_last_name_hint">Last name</string>
+    <string name="login_mobile_number_hint">Mobile Number</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+    <string name="lorem_ipsum"> </string>
+
+</resources>
